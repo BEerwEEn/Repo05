@@ -1,6 +1,8 @@
-function main (numOne,numTwo)  { 
+function main ()  { 
     
-    
+    var myFirstName = "Irvin";
+    var myLastName = "Besic";
+    var myHomeTown = "Zenica";
 
 
 
