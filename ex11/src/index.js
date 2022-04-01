@@ -1,8 +1,8 @@
 function main ()  { 
     
 
-
-    var myString = "This is the first string." + " This is the second string.";
+    var myString = "Jello World";
+    myString = "Hello World";
 
 
 
